@@ -41,6 +41,6 @@
         }
     },
     "dependencies": {
-        "request": "*"
+        "request": "2.88.0"
     }
 }
